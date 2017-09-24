@@ -1,1 +1,3 @@
 Wisdom of the Crowd: Separate API where users can submit a curse word, meaning, possibly category ;)
+Design an API where any vendor can subscribe to, send a text via POST API and the gets a response with cleaned up words or an array of curse words and confidence level for each prediction.
+
